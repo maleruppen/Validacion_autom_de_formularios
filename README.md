@@ -5,7 +5,7 @@ Este repositorio contiene las soluciones para los dos ejercicios del Trabajo Pr�
 
 ## 📄 Documentación
 * **[Consigna del Trabajo](Informe_TPPDI.pdf)**
-* **[Informe Final](Nombre_Del_Informe.pdf)**
+* **[Informe Final](Informe_TPPDI.pdf)**
 
 ## 📂 Estructura del Proyecto
 El proyecto está organizado de la siguiente manera:
